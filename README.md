@@ -10,8 +10,8 @@ I’m currently working on Crehana Perú like React Developer Senior. I like to 
 * 🖥️  See my portfolio at [https://jhosepguadalupe.netlify.app](http://jhosepguadalupe.netlify.app/)
 * ✉️  You can contact me at [jhosepgc14@gmail.com](mailto:jhosepgc14@gmail.com)
 * 🚀  I'm currently working on [Crehana Perú](http://www.crehana.com/pe/)
-* 🧠  I'm learning Vue JS.
-* 🤝  I'm open to collaborating on Interesenting and Challengers projetcs.
+* 🧠  I'm learning Flutter.
+* 🤝  I'm open to collaborating on interesenting and challengers projects.
 * ⚡  I'm a Frontend Developer with skills in Backend
 
 ### Skills

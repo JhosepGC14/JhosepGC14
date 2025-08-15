@@ -7,12 +7,12 @@ Frontend Developer
 I’m currently working on Crehana Perú like React Developer Senior. I like to learn about technologies for development web and mobile. During my experience, i worked with many technologies like Next Js, React Js, Angular (7 - 13) for enviroment Frontend and about Backend with Node Js, Express and MySQL Server.
 
 * 🌍  I'm based in Lima, Perú
-* 🖥️  See my portfolio at [https://jhosepguadalupe.netlify.app](http://jhosepguadalupe.netlify.app/)
+* 🖥️  See my portfolio at [https://jhosepguadalupe.app](http://jhosepguadalupe.app/)
 * ✉️  You can contact me at [jhosepgc14@gmail.com](mailto:jhosepgc14@gmail.com)
-* 🚀  I'm currently working on [Crehana Perú](http://www.crehana.com/pe/)
-* 🧠  I'm learning Flutter.
+* 🚀  I'm currently working on [Crehana Perú](http://www.crehana.com/)
+* 🧠  I'm learning React Native and English too.
 * 🤝  I'm open to collaborating on interesenting and challengers projects.
-* ⚡  I'm a Frontend Developer with skills in Backend
+* ⚡  I'm a Frontend Developer with skills in Backend.
 
 ### Skills
 

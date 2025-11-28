@@ -9,8 +9,8 @@ I’m currently working on Crehana Perú like React Developer Senior. I like to 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my portfolio at [https://jhosepguadalupe.app](http://jhosepguadalupe.app/)
 * ✉️  You can contact me at [jhosepgc14@gmail.com](mailto:jhosepgc14@gmail.com)
-* 🚀  I'm currently working on [Crehana Perú](http://www.crehana.com/)
-* 🧠  I'm learning React Native and English too.
+* 🚀  I'm currently working on [Verily](http://www.verily.com/)
+* 🧠  I'm learning React Native and Backend side, currently i have a B2+ English level.
 * 🤝  I'm open to collaborating on interesenting and challengers projects.
 * ⚡  I'm a Frontend Developer with skills in Backend.
 

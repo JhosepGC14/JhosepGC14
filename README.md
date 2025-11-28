@@ -4,7 +4,7 @@ Hi 👋 My name is Jhosep Guadalupe
 Frontend Developer
 ------------------
 
-I’m currently working on Crehana Perú like React Developer Senior. I like to learn about technologies for development web and mobile. During my experience, i worked with many technologies like Next Js, React Js, Angular (7 - 13) for enviroment Frontend and about Backend with Node Js, Express and MySQL Server.
+I’m currently working on Verily by Google as Senior Frontend Engineer. I like to learn about technologies for development web and mobile. Throught my experience, i worked with many technologies like Next Js, React Js, Angular (7 - 13) for Web Apps and about Backend with Node Js, Express and NestJS with MySQL.
 
 * 🌍  I'm based in Lima, Perú
 * 🖥️  See my portfolio at [https://jhosepguadalupe.app](http://jhosepguadalupe.app/)
@@ -12,7 +12,7 @@ I’m currently working on Crehana Perú like React Developer Senior. I like to 
 * 🚀  I'm currently working on [Verily](http://www.verily.com/)
 * 🧠  I'm learning React Native and Backend side, currently i have a B2+ English level.
 * 🤝  I'm open to collaborating on interesenting and challengers projects.
-* ⚡  I'm a Frontend Developer with skills in Backend.
+* ⚡  I'm a Frontend Engineer with skills in Backend.
 
 ### Skills
 
